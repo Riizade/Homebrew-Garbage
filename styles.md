@@ -31,5 +31,5 @@ Soul Collector
 
 Diplomat
 -----
-**Charismatic** - Any time a character improves their attitude toward you, you may gain 2 ability points. For example, you might do a favor for a townsperson, give a bartender information on rumors they find interesting, or just share a pint of beer with a random tavern patron.
+**Charismatic** - Any time a character improves their attitude toward you, you may gain 2 ability points. For example, you might do a favor for a townsperson, give a bartender information on rumors they find interesting, or just share a pint of beer with a random tavern patron.\
 **Well-Connected** - Any time you meet a new creature of humanoid intelligence or higher who is friendly toward you, you may gain 1 ability point.
