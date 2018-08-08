@@ -157,8 +157,7 @@ Positioning
 -----
 Positioning is done without a table or grid of any kind. Combatants are considered to be in the "melee" range of combat or "far" range. All combatants within the "melee" range of combat are considered to be in melee range of each other, and at far range from combatants in the "far" range. Combatants in the "far" range are considered to be at far range from melee combatants, and at far range from other combatants in the "far" range. In order to make a melee attack against a target in the "far" range, you must first defeat all enemies in the "melee" range. Once only allied combatants remain in the "melee" range, you may choose one target at "far" range to enter melee range. This represents the melee of battle moving to a new location centered around the target that was previously at "far" range, and allows for situations where beefy frontliner enemies can protect their squishy ranged allies.
 
-Positioning - GM Notes
------
+### GM Notes
 It's a good idea to try to add some minor flair to the positioning of each battle. Once the melee range enemies are defeated, maybe some of the ranged enemies are situated on a cliff or other high ground. Don't be afraid to make the party roll to attempt to climb the cliff to move the location of the melee, or to allow the enemy a free shot on the party during their climb. The core of combat is simple, but there is always room to add one-off unique mechanics to each battle to better portray the messy and chaotic nature of combat.
 
 Your Turn
@@ -177,8 +176,7 @@ Epic Combat
 -----
 Sometimes the quick, lethal nature of combat doesn't adequately portray the considerable struggle involved in fighting against an archangel or elder god. In this case, you can use special rules for epic combat. In epic combat, the "boss" enemy or enemies have a health pool. Any time the boss would fall in combat as the result of an attack or ability, they instead lose 1 point from their health pool. They are defeated instead when their health pool reaches 0. An appropriate health pool for an epic combat encounter might be 3x the number of players in the party.
 
-Epic Combat - GM Notes
------
+### GM Notes
 When designing boss encounters, it can often be effective to not utilize the epic combat rules. Instead, you might give the boss creature some sort of power that involves defeating multiple targets. For example, in order to defeat a Lich, the party might have to destroy several phylacteries he's hidden across the battlefield. Perhaps an enemy mage has conjured a protective barrier, and the party must destroy several magical crystals fueling the shield. Or even when fighting a pirate captain, the captain might be able to swing on the various ropes and components of their ship, and you must destroy all escape routes before you're able to defeat the captain himself. This will often allow for epic fights without simply making a human opponent unreasonably durable. For fighting a dragon or other large creature, however, the health pool and Epic Combat rules may be more appropriate.
 
 Player vs Player Combat
@@ -205,12 +203,9 @@ Death and Failure
 =====
 When a player fails a skill check or is incapacitated in combat, they should suffer some consequences as a result of their failure.
 
-Failure
------
 For many tasks and skill checks, the consequences of failure are determined entirely on-the-fly by the GM. For example, if a player character fails to persuade a townsperson to tell them a closely guarded secret, the townsperson may refuse to interact with them further, or even begin to speak angrily of the players to other townsfolk, impacting the party's reputation in that region.
 
-Death and Failure - GM Notes
------
+### GM Notes
 Determining the appropriate penalty for failure can be difficult. A good rule of thumb is that failure should move the narrative forward, just in a less desirable way than a success. If the party is looking for an enemy encampment, and they encounter enemy scouts, they might initiate combat. Upon winning combat, they might learn the location of the enemy encampment from the scouts, and are able to form a plan of attack. On a combat loss, the party might be captured and taken to the enemy encampment and begin the next stage of the story bound together, with no remaining inventory points.
 
 Death is of course, optional. Many players are attached to their characters and want to take the same character on adventures in campaigns spanning months or years. However, for a particularly "hardcore dungeon-delve" kind of experience, any time a player character falls in battle, you might rule that they die. Or perhaps they must roll a task check to determine whether or not they die. This can be an interesting alternative way to play the game, causing a real sense of danger and foreboding for players that may be suitable for a darker or more mature campaign setting.
@@ -232,8 +227,7 @@ Procuring an item using inventory points represents the character's foresight in
 
 Some particularly common items may cost no inventory points to procure, such as a small coin or clothing the character would almost certainly be wearing even if not listed on their character's inventory.
 
-Inventory Points - GM Notes
------
+### GM Notes
 The cost of an item should be determined not only by its rarity, but also by context. If the players attend a masquerade ball in a large city, they may have thought to keep a mask on them for just such an occasion, and it might cost a single inventory point to acquire. If the players instead stumble across a secret cult meeting deep underneath some ancient ruins, where each cultist is wearing a masquerade mask, to procure the same mask it may cost 3 or more points because it's unlikely the character would have anticipated a need for the mask.
 
 Inventory Minutiae
@@ -248,8 +242,7 @@ Sometimes the party picks up magic items, or items that are beyond the reach of 
 
 Interesting items with powerful or particularly useful effects might cost either inventory points or ability points to use.
 
-Interesting Items - GM Notes
------
+### GM Notes
 Interesting items can often be easily created on the fly by selecting an ability that no party member currently has, and turning it into an item. Maybe the *Invisibility* ability could become a *Potion of Invisibility* with a single use, or a *Ring of Invisibility* that simply grants the wearer the *Invisibility* ability, but it might cost inventory points instead of ability points.
 
 Inventory - Design
