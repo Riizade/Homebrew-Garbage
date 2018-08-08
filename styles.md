@@ -19,7 +19,7 @@ Tactician
 
 Hoarder
 -----
-**abilityful** - Any time the character would replenish their inventory points, they instead gain twice that amount. They may use their inventory points as if they were ability points.
+**Resourceful** - Any time the character would replenish their inventory points, they instead gain twice that amount. They may use their inventory points as if they were ability points.
 
 Faithful
 -----
@@ -28,3 +28,8 @@ Faithful
 Soul Collector
 -----
 **Harvest Souls** - Any time a living creature dies within long range of the character, they may gain a ability point. If the creature was of human intelligence or greater, they may instead gain 2 ability points.
+
+Diplomat
+-----
+**Charismatic** - Any time a character improves their attitude toward you, you may gain 2 ability points. For example, you might do a favor for a townsperson, give a bartender information on rumors they find interesting, or just share a pint of beer with a random tavern patron.
+**Well-Connected** - Any time you meet a new creature of humanoid intelligence or higher who is friendly toward you, you may gain 1 ability point.

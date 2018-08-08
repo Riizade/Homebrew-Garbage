@@ -13,14 +13,6 @@ Throw Weapon
 
 You may make a ranged attack with what would normally be considered a melee weapon.
 
-Soul Link
------
-**Conditions**: None\
-**Difficulty**: None\
-**Cost**: 1 ability point
-
-You curse an enemy's soul to be linked to a nearby object, and you may strike that nearby object to inflict a wound upon your enemy.
-
 Rip Space
 -----
 **Conditions**: You must be able to make a gesture to open the tear (you must not be bound or paralyzed)\
@@ -140,3 +132,29 @@ Conjure Weapon
 You may magically conjure a weapon of any type. This weapon remains in existence until the end of combat (or 5 minutes pass). Attacks with this weapon are made with a 1 die bonus to the roll.
 
 Alternate Flavors: Enchant Weapon, Divine Weapon, Sharpen Weapon
+
+Cleave
+-----
+**Conditions**: None\
+**Difficulty**: None\
+**Cost**: 1 ability point
+
+Instead of making one attack, you may make two attacks, directed at two different targets.
+
+Alternate Flavors: Double Strike, Twin Arrows, Soul Link
+
+Sneak Attack
+-----
+**Conditions**: None\
+**Difficulty**: None\
+**Cost**: 1 ability point
+
+On the first round of combat, you may make a melee attack against any enemy combatant, regardless of range.
+
+Tactical Positioning
+-----
+**Conditions**: None\
+**Difficulty**: None\
+**Cost**: 1 ability point
+
+When only allies remain in melee range, you may use this ability to bring one additional enemy into melee range. This ability may be used multiple times at once.

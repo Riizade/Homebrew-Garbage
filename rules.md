@@ -153,6 +153,18 @@ Initiative is incredibly important when combat is resolved in a single strike. I
 
 Enemies have set numbers for their initiatives, and in the event of two enemies with an equal initiative score, they can be arranged in any order the GM desires.
 
+Positioning
+-----
+Positioning is done without a table or grid of any kind. Combatants are considered to be in the "melee" range of combat or "far" range. All combatants within the "melee" range of combat are considered to be in melee range of each other, and at far range from combatants in the "far" range. Combatants in the "far" range are considered to be at far range from melee combatants, and at far range from other combatants in the "far" range. In order to make a melee attack against a target in the "far" range, you must first defeat all enemies in the "melee" range. Once only allied combatants remain in the "melee" range, you may choose one target at "far" range to enter melee range. This represents the melee of battle moving to a new location centered around the target that was previously at "far" range, and allows for situations where beefy frontliner enemies can protect their squishy ranged allies.
+
+Positioning - GM Notes
+-----
+It's a good idea to try to add some minor flair to the positioning of each battle. Once the melee range enemies are defeated, maybe some of the ranged enemies are situated on a cliff or other high ground. Don't be afraid to make the party roll to attempt to climb the cliff to move the location of the melee, or to allow the enemy a free shot on the party during their climb. The core of combat is simple, but there is always room to add one-off unique mechanics to each battle to better portray the messy and chaotic nature of combat.
+
+Your Turn
+-----
+During your turn, you get one action. This action may be movement between melee and far range, a basic attack, or using an ability. It may also be something like utilizing an item, or picking up an ally's unconscious body.
+
 Attacking
 -----
 When attacking an enemy, you must clear a task of their target difficulty with one of your combat skills. If you succeed, the enemy is incapacitated for the rest of the fight. As a rule of thumb, melee attacks are generally governed by Strength checks, ranged attacks by Dexterity checks, and magical or supernatural attacks by Intelligence checks.
@@ -160,6 +172,18 @@ When attacking an enemy, you must clear a task of their target difficulty with o
 Defending
 -----
 When an enemy attacks a player, the player again rolls for a relevant skill/attribute combination and attempts to clear the target difficulty of the enemy's strike. If they fail, the player has *fallen* in battle and is unable to contribute to the rest of the fight. The attribute used to defend against attacks is slightly different than when attacking. Strength is still used to defend against melee attacks, and Dexterity for ranged, but if an enemy casts a spell, generally you'd dodge it as a ranged attack with Dexterity. Intelligence defenses are instead used for attacks that focus on dominating a player character's mind or attempting to use a curse on them that cannot be dodged.
+
+Epic Combat
+-----
+Sometimes the quick, lethal nature of combat doesn't adequately portray the considerable struggle involved in fighting against an archangel or elder god. In this case, you can use special rules for epic combat. In epic combat, the "boss" enemy or enemies have a health pool. Any time the boss would fall in combat as the result of an attack or ability, they instead lose 1 point from their health pool. They are defeated instead when their health pool reaches 0. An appropriate health pool for an epic combat encounter might be 3x the number of players in the party.
+
+Epic Combat - GM Notes
+-----
+When designing boss encounters, it can often be effective to not utilize the epic combat rules. Instead, you might give the boss creature some sort of power that involves defeating multiple targets. For example, in order to defeat a Lich, the party might have to destroy several phylacteries he's hidden across the battlefield. Perhaps an enemy mage has conjured a protective barrier, and the party must destroy several magical crystals fueling the shield. Or even when fighting a pirate captain, the captain might be able to swing on the various ropes and components of their ship, and you must destroy all escape routes before you're able to defeat the captain himself. This will often allow for epic fights without simply making a human opponent unreasonably durable. For fighting a dragon or other large creature, however, the health pool and Epic Combat rules may be more appropriate.
+
+Player vs Player Combat
+-----
+Rarely, players may enter combat with each other. In these circumstances, most rules remain the same, with the exception of attacking and defending rolls. Instead of clearing a target difficulty, every attack and defense roll is made in opposition to your opponent's corresponding roll. If Urgor the Orc attacks Elendia the Elf, Urgor makes an attack roll using their relevant attribute and skill, and Elendia makes a defense roll using her relevant attribute and skill. If the attacker's roll result is higher than the defender's, the attack succeeds and the defender falls in battle. Otherwise, the defender successfully defends and combat continues.
 
 Combat - Design
 -----
