@@ -159,7 +159,7 @@ When attacking an enemy, you must clear a task of their target difficulty with o
 
 Defending
 -----
-When an enemy attacks a player, the player again rolls for a relevant skill/attribute combination and attempts to clear the target difficulty of the enemy's strike. If they fail, the player is wounded and is unable to contribute to the rest of the fight. The attribute used to defend against attacks is slightly different than when attacking. Strength is still used to defend against melee attacks, and Dexterity for ranged, but if an enemy casts a spell, generally you'd dodge it as a ranged attack with Dexterity. Intelligence defenses are instead used for attacks that focus on dominating a player character's mind or attempting to use a curse on them that cannot be dodged.
+When an enemy attacks a player, the player again rolls for a relevant skill/attribute combination and attempts to clear the target difficulty of the enemy's strike. If they fail, the player has *fallen* in battle and is unable to contribute to the rest of the fight. The attribute used to defend against attacks is slightly different than when attacking. Strength is still used to defend against melee attacks, and Dexterity for ranged, but if an enemy casts a spell, generally you'd dodge it as a ranged attack with Dexterity. Intelligence defenses are instead used for attacks that focus on dominating a player character's mind or attempting to use a curse on them that cannot be dodged.
 
 Combat - Design
 -----
@@ -185,12 +185,11 @@ Failure
 -----
 For many tasks and skill checks, the consequences of failure are determined entirely on-the-fly by the GM. For example, if a player character fails to persuade a townsperson to tell them a closely guarded secret, the townsperson may refuse to interact with them further, or even begin to speak angrily of the players to other townsfolk, impacting the party's reputation in that region.
 
-Wounding and Death
+Death and Failure - GM Notes
 -----
-For tasks that carry a large amount of danger to one's physical well-being, and for falling in combat, players may become wounded or even die as a result of their failure.
-If a player would be wounded, they should roll a D6. On a 5 or 6, they suffer no ill effects. On a 2-4, they suffer a wound, which causes them to take a 1 die penalty to all checks until their wound heals. On a 1, the character dies.
+Determining the appropriate penalty for failure can be difficult. A good rule of thumb is that failure should move the narrative forward, just in a less desirable way than a success. If the party is looking for an enemy encampment, and they encounter enemy scouts, they might initiate combat. Upon winning combat, they might learn the location of the enemy encampment from the scouts, and are able to form a plan of attack. On a combat loss, the party might be captured and taken to the enemy encampment and begin the next stage of the story bound together, with no remaining inventory points.
 
-Death is of course an optional rule. Not everyone wants their character to be at risk of death, many campaigns prefer to focus on one cast of characters over many sessions rather than an ever-changing roster of fragile adventurers.
+Death is of course, optional. Many players are attached to their characters and want to take the same character on adventures in campaigns spanning months or years. However, for a particularly "hardcore dungeon-delve" kind of experience, any time a player character falls in battle, you might rule that they die. Or perhaps they must roll a task check to determine whether or not they die. This can be an interesting alternative way to play the game, causing a real sense of danger and foreboding for players that may be suitable for a darker or more mature campaign setting.
 
 Items and Equipment
 =====
