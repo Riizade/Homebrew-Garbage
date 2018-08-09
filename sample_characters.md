@@ -178,26 +178,26 @@ Style - Naturalist
 
 Abilities
 -----
-### Divine Guidance ###
+### Track Beast ###
 **Conditions**: None\
 **Difficulty**: None\
 **Cost**: 1 ability point
 
-You may commune with your patron deity or one of its representatives for a short time to ask for guidance.
+You may sense the locations of any beasts (creatures of a dog's size or larger, but of less than human intelligence)
 
-### Turn Undead ###
+### Darkvision ###
+**Conditions**: None\
+**Difficulty**: None\
+**Cost**: None
+
+You can see in the dark flawlessly even when no light is present.
+
+### Hunt Beast ###
 **Conditions**: None\
 **Difficulty**: None\
 **Cost**: 1 ability point
 
-You may make an attack against an enemy undead with a 2 die bonus to your roll.
-
-### Reinvigorate ###
-**Conditions**: None\
-**Difficulty**: None\
-**Cost**: X ability points
-
-You may spend any number of ability points to give an ally the same number of points minus one. (For example, if you spend 3 ability points, your ally would gain 2 ability points).
+You may make an attack against an enemy beast with a 2 die bonus to your roll.
 
 Inventory
 -----
