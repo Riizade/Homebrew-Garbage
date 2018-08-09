@@ -61,7 +61,7 @@ A style describes how a character generates their ability points. For example, a
 
 Creating a New Character
 -----
-Characters start with 12 dice to distribute among stats, 7 dice to distribute among skills, three abilities, and a single style.
+Characters start with 12 dice to distribute among stats, 7 dice to distribute among skills, three abilities, 5 inventory points, and a single style.
 
 Stats are limited to 4 dice at level 1.
 
@@ -180,6 +180,8 @@ Each character has a number of inventory points determined by their level. When 
 Procuring an item using inventory points represents the character's foresight in bringing the item along. The item's existence applies retroactively, and the character is considered to have held this item since the last time their inventory points were replenished. Once a character procures an item using inventory points, they are also considered to have access to that item until the next time they replenish their inventory points to their maximum (unless as part of their usage of the item, it becomes inaccessible, such as if they gift it to an NPC, or if the player character eats a food item).
 
 Some particularly common items may cost no inventory points to procure, such as a small coin or clothing the character would almost certainly be wearing even if not listed on their character's inventory.
+
+Inventory points are replenished any time the character would have access to a reasonable amount of supplies, such as when visiting a town or resting at a large military encampment.
 
 ### GM Notes
 The cost of an item should be determined not only by its rarity, but also by context. If the players attend a masquerade ball in a large city, they may have thought to keep a mask on them for just such an occasion, and it might cost a single inventory point to acquire. If the players instead stumble across a secret cult meeting deep underneath some ancient ruins, where each cultist is wearing a masquerade mask, to procure the same mask it may cost 3 or more points because it's unlikely the character would have anticipated a need for the mask.
