@@ -1,6 +1,6 @@
 Quick Six
 =====
-A rules-light tabletop RPG designed to be described in under a page, and incredibly easy to expand upon.
+A rules-light tabletop RPG designed to be fast to play and incredibly easy to expand upon.
 
 Based on Open Six/Mini Six ruleset
 
