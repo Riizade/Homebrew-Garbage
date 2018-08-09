@@ -3,7 +3,7 @@ Styles
 Rogue
 -----
 **Sneak** - When the character is able to act while the target of their action is unaware of their presence (either in combat or out of combat), they get two ability points to spend on a single action taken immediately. The points disappear if no action is taken, or if an action is performed but it was not an ability that required ability points.\
-**Cheat** - When the character is able to pickpocket a character or use sleight of hand to alter something in their environment to their benefit, instead of gaining a circumstance bonus on a relevant roll, they may instead gain an ability point that may be used as long as they remain in circumstances where their alteration is useful. For instance, the character may pickpocket the mayor of a town while talking to them. The result of the pickpocket (which item might have been stolen, or even placed onto the mayor's person) does not need to be determined. Instead, the idea that they've done *something* beneficial for the party is understood, and the character gains an ability point.
+**Cheat** - When the character is able to pickpocket a character or use sleight of hand to alter something in their environment to their benefit, instead of gaining a circumstance bonus on a relevant roll, they may instead gain an ability point. For instance, the character may pickpocket the mayor of a town while talking to them. The result of the pickpocket (which item might have been stolen, or even placed onto the mayor's person) does not need to be determined. Instead, the idea that they've done *something* beneficial for the party is understood, and the character gains an ability point.
 
 Barbarian
 -----
