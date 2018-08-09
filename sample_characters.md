@@ -4,17 +4,17 @@ Level 1
 
 Attributes
 -----
-**Strength**: 2D
-**Dexterity**: 4D
-**Intelligence**: 3D
-**Charisma**: 3D
+**Strength**: 2D\
+**Dexterity**: 4D\
+**Intelligence**: 3D\
+**Charisma**: 3D\
 
 Skills
 -----
-**Sneaking**: 2D
-**Knife-fighting**: 2D
-**Throwing Weapons**: 1D
-**Sleight of Hand**: 2D
+**Sneaking**: 2D\
+**Knife-fighting**: 2D\
+**Throwing Weapons**: 1D\
+**Sleight of Hand**: 2D\
 
 Style - Rogue
 -----
@@ -46,9 +46,9 @@ You coat your weapon in poison and strike at the enemy. If you do not deal a let
 
 Inventory
 -----
-A pair of daggers.
-A collection of throwing knives.
-A lockpicking set.
+A pair of daggers.\
+A collection of throwing knives.\
+A lockpicking set.\
 
 Fighter
 =====
@@ -56,17 +56,17 @@ Level 1
 
 Attributes
 -----
-**Strength**: 4D
-**Dexterity**: 3D
-**Intelligence**: 2D
-**Charisma**: 3D
+**Strength**: 4D\
+**Dexterity**: 3D\
+**Intelligence**: 2D\
+**Charisma**: 3D\
 
 Skills
 -----
-**Swordsmanship**: 2D
-**Brawling**: 1D
-**Shield-wielding**: 2D
-**Bravery**: 2D
+**Swordsmanship**: 2D\
+**Brawling**: 1D\
+**Shield-wielding**: 2D\
+**Bravery**: 2D\
 
 
 Style - Tactician
@@ -98,8 +98,8 @@ When only allies remain in melee range, you may use this ability to bring one ad
 
 Inventory
 -----
-A longsword.
-A shield.
+A longsword.\
+A shield.\
 
 Cleric
 =====
@@ -107,17 +107,17 @@ Level 1
 
 Attributes
 -----
-**Strength**: 3D
-**Dexterity**: 2D
-**Intelligence**: 3D
-**Charisma**: 4D
+**Strength**: 3D\
+**Dexterity**: 2D\
+**Intelligence**: 3D\
+**Charisma**: 4D\
 
 Skills
 -----
-**Healing**: 2D
-**Religious Knowledge**: 2D
-**Cultural Knowledge**: 2D
-**Unholy Knowledge**: 1D
+**Diplomacy**: 2D\
+**Religious Knowledge**: 2D\
+**Cultural Knowledge**: 2D\
+**Unholy Knowledge**: 1D\
 
 
 Style - Faithful
@@ -149,10 +149,10 @@ You may spend any number of ability points to give an ally the same number of po
 
 Inventory
 -----
-A mace.
-A shield.
-A holy talisman.
-Some holy water.
+A mace.\
+A shield.\
+A holy talisman.\
+Some holy water.\
 
 Ranger
 =====
@@ -160,17 +160,17 @@ Level 1
 
 Attributes
 -----
-**Strength**: 3D
-**Dexterity**: 4D
-**Intelligence**: 3D
-**Charisma**: 2D
+**Strength**: 3D\
+**Dexterity**: 4D\
+**Intelligence**: 3D\
+**Charisma**: 2D\
 
 Skills
 -----
-**Natural Knowledge**: 2D
-**Bowmanship**: 2D
-**Athletics**: 2D
-**Swordsmanship**: 1D
+**Natural Knowledge**: 2D\
+**Bowmanship**: 2D\
+**Geography**: 2D\
+**Swordsmanship**: 1D\
 
 Style - Naturalist
 -----
@@ -201,7 +201,57 @@ You may make an attack against an enemy beast with a 2 die bonus to your roll.
 
 Inventory
 -----
-A bow.
-A quiver full of arrows.
-A skinning knife.
-A longsword.
+A bow.\
+A quiver full of arrows.\
+A skinning knife.\
+A longsword.\
+
+Wizard
+=====
+Level 1
+
+Attributes
+-----
+**Strength**: 2D\
+**Dexterity**: 3D\
+**Intelligence**: 4D\
+**Charisma**: 3D\
+
+Skills
+-----
+**Arcane Knowledge**: 2D\
+**Insight**: 2D\
+**Research**: 2D\
+**History Knowledge**: 1D\
+
+Scholar
+-----
+**Focus** - The character gains 8 ability points any time their character gets a good night's sleep. They cannot exceed 8 ability points in this way at any time.
+
+Abilities
+-----
+### Runic Knowledge ###
+**Conditions**: None\
+**Difficulty**: None\
+**Cost**: None
+
+You can read any written language as if it were your native tongue.
+
+### Rip Space ###
+**Conditions**: You must be able to make a gesture to open the tear (you must not be bound or paralyzed)\
+**Difficulty**: None\
+**Cost**: 2 ability points
+
+You open a tear in spacetime in front of you and link it to another tear at a point of your choosing within long range. You may reach through the tear to interact as if you were at either location.
+
+## Feather Fall ##
+**Conditions**: None\
+**Difficulty**: None\
+**Cost**: 1 ability point
+
+You may choose up to 6 creatures or objectsin far range (including yourself). For the next 5 minutes, all of the targets fall slowly enough to land gently, no matter the height.
+
+Inventory
+-----
+A magical talisman.\
+A pouch of spell components.\
