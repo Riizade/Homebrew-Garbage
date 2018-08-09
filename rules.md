@@ -57,7 +57,7 @@ Once an ability is activated, it takes effect. The effect should generally be mo
 
 Style
 -----
-A style describes how a character generates their ability points. For example, a "Barbarian Rage" style might give a character a ability point any time an "attack" (physical or verbal) is made against the player, which dissipate when the character is no longer angry as a result of this action. A "Scholar" or "Wizard" style might give a character 8 "focus" points that replenish when the character sleeps for a night. A "rogue" style might give the player 3 points to use any time they make an attack on an enemy that is unaware of their presence, or a single point any time they successfully use sleight of hand to steal or cheat.
+A style describes how a character generates their ability points. For example, a "Barbarian Rage" style might give a character an ability point any time an "attack" (physical or verbal) is made against the player, which dissipate when the character is no longer angry as a result of this action. A "Scholar" or "Wizard" style might give a character 8 "focus" points that replenish when the character sleeps for a night. A "rogue" style might give the player 3 points to use any time they make an attack on an enemy that is unaware of their presence, or a single point any time they successfully use sleight of hand to steal or cheat.
 
 Creating a New Character
 -----
