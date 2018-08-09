@@ -198,9 +198,9 @@ Sometimes the party picks up magic items, or items that are beyond the reach of 
 
 Interesting items with powerful or particularly useful effects might cost either inventory points or ability points to use.
 
+### GM Notes
+Interesting items can often be easily created on the fly by selecting an ability that no party member currently has, and turning it into an item. Maybe the *Invisibility* ability could become a *Potion of Invisibility* with a single use, or a *Ring of Invisibility* that simply grants the wearer the *Invisibility* ability, but it might cost inventory points instead of ability points.
+
 Loot
 -----
 When the party overcomes a challenge and receives a reward, those rewards will often be in the form of permanently held interesting items. However, for a smaller or more temporary reward, such as items gaine from pickpocketing a townsperson or looting the corpses of dead adventurers, a character may gain one or more inventory points instead.
-
-### GM Notes
-Interesting items can often be easily created on the fly by selecting an ability that no party member currently has, and turning it into an item. Maybe the *Invisibility* ability could become a *Potion of Invisibility* with a single use, or a *Ring of Invisibility* that simply grants the wearer the *Invisibility* ability, but it might cost inventory points instead of ability points.
