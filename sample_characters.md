@@ -7,14 +7,14 @@ Attributes
 **Strength**: 2D\
 **Dexterity**: 4D\
 **Intelligence**: 3D\
-**Charisma**: 3D\
+**Charisma**: 3D
 
 Skills
 -----
 **Sneaking**: 2D\
 **Knife-fighting**: 2D\
 **Throwing Weapons**: 1D\
-**Sleight of Hand**: 2D\
+**Sleight of Hand**: 2D
 
 Style - Rogue
 -----
@@ -48,7 +48,7 @@ Inventory
 -----
 A pair of daggers.\
 A collection of throwing knives.\
-A lockpicking set.\
+A lockpicking set.
 
 Fighter
 =====
@@ -59,14 +59,14 @@ Attributes
 **Strength**: 4D\
 **Dexterity**: 3D\
 **Intelligence**: 2D\
-**Charisma**: 3D\
+**Charisma**: 3D
 
 Skills
 -----
 **Swordsmanship**: 2D\
 **Brawling**: 1D\
 **Shield-wielding**: 2D\
-**Bravery**: 2D\
+**Bravery**: 2D
 
 
 Style - Tactician
@@ -99,7 +99,7 @@ When only allies remain in melee range, you may use this ability to bring one ad
 Inventory
 -----
 A longsword.\
-A shield.\
+A shield.
 
 Cleric
 =====
@@ -110,14 +110,14 @@ Attributes
 **Strength**: 3D\
 **Dexterity**: 2D\
 **Intelligence**: 3D\
-**Charisma**: 4D\
+**Charisma**: 4D
 
 Skills
 -----
 **Diplomacy**: 2D\
 **Religious Knowledge**: 2D\
 **Cultural Knowledge**: 2D\
-**Unholy Knowledge**: 1D\
+**Unholy Knowledge**: 1D
 
 
 Style - Faithful
@@ -152,7 +152,7 @@ Inventory
 A mace.\
 A shield.\
 A holy talisman.\
-Some holy water.\
+Some holy water.
 
 Ranger
 =====
@@ -163,14 +163,14 @@ Attributes
 **Strength**: 3D\
 **Dexterity**: 4D\
 **Intelligence**: 3D\
-**Charisma**: 2D\
+**Charisma**: 2D
 
 Skills
 -----
 **Natural Knowledge**: 2D\
 **Bowmanship**: 2D\
 **Geography**: 2D\
-**Swordsmanship**: 1D\
+**Swordsmanship**: 1D
 
 Style - Naturalist
 -----
@@ -204,7 +204,7 @@ Inventory
 A bow.\
 A quiver full of arrows.\
 A skinning knife.\
-A longsword.\
+A longsword.
 
 Wizard
 =====
@@ -215,14 +215,14 @@ Attributes
 **Strength**: 2D\
 **Dexterity**: 3D\
 **Intelligence**: 4D\
-**Charisma**: 3D\
+**Charisma**: 3D
 
 Skills
 -----
 **Arcane Knowledge**: 2D\
 **Insight**: 2D\
 **Research**: 2D\
-**History Knowledge**: 1D\
+**History Knowledge**: 1D
 
 Scholar
 -----
@@ -254,4 +254,4 @@ You may choose up to 6 creatures or objectsin far range (including yourself). Fo
 Inventory
 -----
 A magical talisman.\
-A pouch of spell components.\
+A pouch of spell components.
