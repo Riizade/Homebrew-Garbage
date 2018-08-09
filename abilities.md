@@ -158,3 +158,62 @@ Tactical Positioning
 **Cost**: 1 ability point
 
 When only allies remain in melee range, you may use this ability to bring one additional enemy into melee range. This ability may be used multiple times at once.
+
+Track Beast
+-----
+**Conditions**: None\
+**Difficulty**: None\
+**Cost**: 1 ability point
+
+You may sense the locations of any beasts (creatures of a dog's size or larger, but of less than human intelligence)
+
+Alternate Flavors: Sense Undead, Detect Humanoids
+
+Divine Guidance
+-----
+**Conditions**: None\
+**Difficulty**: None\
+**Cost**: 1 ability point
+
+You may commune with your patron deity or one of its representatives for a short time to ask for guidance.
+
+Alternate Flavors: Commune with the Dead, Call Upon Ancestors, Read Fortune
+
+Undead Flesh
+-----
+**Conditions**: None\
+**Difficulty**: None\
+**Cost**: None
+
+You do not need to eat, sleep or breathe.
+
+Alternate Flavors: Mechanized Body, Magic Form
+
+Beastform
+-----
+**Conditions**: None\
+**Difficulty**: None\
+**Cost**: 3 ability points
+
+You may take on the form of a nonmagical beast of roughly your size or smaller for a maximum of 24 hours.
+
+
+Alternate Flavors: Shapeshift
+
+Darkvision
+-----
+**Conditions**: None\
+**Difficulty**: None\
+**Cost**: None
+
+You can see in the dark flawlessly even when no light is present.
+
+Alternate Flavors: Blindsight, Spectral Sight, True Sight
+
+Runic Knowledge
+-----
+**Conditions**: None\
+**Difficulty**: None\
+**Cost**: None
+
+You can read any written language as if it were your native tongue.

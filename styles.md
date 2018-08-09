@@ -11,7 +11,7 @@ Barbarian
 
 Scholar
 -----
-**Focus** - The character gains 8+(current_level) ability points any time their character gets a good night's sleep. They cannot exceed 8+(current_level) ability points in this way at any time.
+**Focus** - The character gains 8 ability points any time their character gets a good night's sleep. They cannot exceed 8 ability points in this way at any time.
 
 Tactician
 -----
@@ -33,3 +33,7 @@ Diplomat
 -----
 **Charismatic** - Any time a character improves their attitude toward you, you may gain 2 ability points. For example, you might do a favor for a townsperson, give a bartender information on rumors they find interesting, or just share a pint of beer with a random tavern patron.\
 **Well-Connected** - Any time you meet a new creature of humanoid intelligence or higher who is friendly toward you, you may gain 1 ability point.
+
+Naturalist
+-----
+**Affinity for Nature** - Any time you utilize nature's bounty to sustain yourself or overcome an obstacle, you may gain 1 ability point. (For example, you might forage or hunt for food rather than packing rations, or create a bed out of plants rather than bringing along a bedroll)

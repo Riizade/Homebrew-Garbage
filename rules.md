@@ -61,21 +61,25 @@ A style describes how a character generates their ability points. For example, a
 
 Creating a New Character
 -----
-Characters start with 12 dice to distribute among stats, 7 dice to distribute among skills, and two abilities.
+Characters start with 12 dice to distribute among stats, 7 dice to distribute among skills, three abilities, and a single style.
 
-Stats are limited to 4 dice at level 1, increasing by 1 every 5th level. Level 5 characters are limited to 5 dice per skill, level 10 to 6 dice, etc.
+Stats are limited to 4 dice at level 1.
 
-Skills are limited to 2 dice at level 1, increasing by 1 every 3rd level. Level 3 characters are limited to 3 dice per skill, level 6 to 4 dice, etc.
+Skills are limited to 2 dice at level 1.
 
 Leveling Up
 -----
-Levels are granted at GM discretion, but should be granted every time a small story arc concludes (every 1-3 sessions depending on the pace of the game).
+Levels are granted at GM discretion, but should be granted any time a large story arc concludes (2-5 sessions depending on pace). Each level represents a large jump in the party's abilities and growth.
 
-Upon leveling up, the following happens:
-Every level, characters get W
-Every X levels, characters get 1 die to distribute to their stats.
-Every Y levels, characters get 2 dice to distribute among their skills.
-Every Z levels, characters get an extra ability.
+Level 1 characters represent competent adventurers, who may face off against a few undead, a small military scouting party, or a small camp of bandits.
+
+Level 2 characters represent experienced adventurers who might take on an entire cult of necromancers, a military squadron, or a large group of bandits with their leader.
+
+Level 3 characters represent heroic adventurers who are capable of defeating a lich or a dragon.
+
+Level 4 characters represent legendary adventurers on par with the entire military strength of a nation or multiple ancient evils.
+
+Level 5 characters represent godlike adventurers with the strength to defeat elder gods and world-ending abominations.
 
 Tasks
 =====
