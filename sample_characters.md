@@ -249,7 +249,7 @@ You open a tear in spacetime in front of you and link it to another tear at a po
 **Difficulty**: None\
 **Cost**: 1 ability point
 
-You may choose up to 6 creatures or objectsin far range (including yourself). For the next 5 minutes, all of the targets fall slowly enough to land gently, no matter the height.
+You may choose up to 6 creatures or objects in far range (including yourself). For the next 5 minutes, all of the targets fall slowly enough to land gently, no matter the height.
 
 Inventory
 -----
