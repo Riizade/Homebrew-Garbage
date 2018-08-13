@@ -66,7 +66,7 @@ Talents are aspects of your character that are passive in nature. For instance, 
 
 Creating a New Character
 -----
-Characters start with 15 points to distribute among attributes, 20 points to distribute among skills, three abilities, two talents, and a single style.
+Characters start with 15 points to distribute among attributes, 20 points to distribute among skills, three abilities, three talent points, and a single style.
 Attribute points may instead be spent to acquire or improve skills. However, you may not use skill points to acquire or improve attributes.
 
 You may place a maximum of 5 points into a particular skill or attribute at level 1.

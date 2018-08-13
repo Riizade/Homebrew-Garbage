@@ -7,13 +7,13 @@ Many talents have a section listed "Alternate Flavors". This section is used to 
 
 Sneak Attack
 -----
-**Cost**: None
+**Cost**: 1 talent point
 
-On the first round of combat, you may make a melee attack against any enemy combatant, regardless of range.
+On the first round of combat, you may make a melee attack against any enemy combatant, regardless of range, with a +3 bonus to your roll.
 
 Undead Flesh
 -----
-**Cost**: None
+**Cost**: 2 talent points
 
 You do not need to eat, sleep or breathe.
 
@@ -21,7 +21,7 @@ Alternate Flavors: Mechanized Body, Magic Form
 
 Darkvision
 -----
-**Cost**: None
+**Cost**: 1 talent point
 
 You can see in the dark flawlessly even when no light is present.
 
@@ -29,13 +29,13 @@ Alternate Flavors: Blindsight, Spectral Sight, True Sight
 
 Runic Knowledge
 -----
-**Cost**: None
+**Cost**: 1 talent point
 
 You can read any written language as if it were your native tongue.
 
 Flight
 -----
-**Cost**: None
+**Cost**: 3 talent points
 
 You may fly.
 
@@ -43,6 +43,6 @@ Alternate Flavors: Levitation, Winged
 
 Vengeance
 -----
-**Cost**: None
+**Cost**: 1 talent point
 
 When an ally falls in combat, you gain a +3 to any attack rolls made against the enemy that felled your ally.
