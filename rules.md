@@ -2,7 +2,7 @@ Quick Six
 =====
 A rules-light tabletop RPG designed to be fast to play and incredibly easy to expand upon.
 
-Based on Open Six/Mini Six ruleset
+Based on the d20 ruleset.
 
 Philosophy
 =====
@@ -16,7 +16,7 @@ This system is designed to be used with any type of campaign setting, whether hi
 
 Expandability
 -----
-The core rules are designed to be simple enough and generic enough to implement aspects of any other game system into this framework. Many interesting parts of other systems, such as feats, spells, and powers from Dungeons and Dragons will fit into the general framework of "abilities" in this system. More broad traits and involved mechanics might be adapted into the "styles" framework in this system. GMs should feel comfortable writing homebrew abilities and styles due to the lightweight nature of the system.
+The core rules are designed to be simple enough and generic enough to implement aspects of any other game system into this framework. Many interesting parts of other systems, such as feats, spells, and powers from Dungeons and Dragons will fit into the general framework of "*Abilities*" in this system. More broad traits and involved mechanics might be adapted into the "*Style*" or "*Talent*" framework in this system. GMs should feel comfortable writing homebrew abilities and styles due to the lightweight nature of the system.
 
 Work in Progress
 =====
@@ -24,48 +24,54 @@ Everything contained within this ruleset is a work-in-progress. Some sections co
 
 Rolling Dice
 =====
-This system is a variant of the Open Six/Mini Six ruleset. That means that all dice in this system are 6-sided. Each attribute and skill has a number of dice associated with it. When you want to attempt a task and you are asked by the GM to make a roll, you total up the number of dice from your relevant attribute and a relevant skill, roll that number of dice, and total up the result. For instance, if you attempt to pick a lock and your character has 3 dice in Dexterity, and 2 dice in *lockpicking* (represented as 3D and 2D, respectively), you would roll 3+2 six-sided dice. You'd roll 5 six-sided dice and total up the result, which in this instance can range from 5 to 30 (5 if you roll all 1s, 30 if you roll all 6s).
+This system is a variant of the d20 ruleset. That means that you will primarily interact with the game by rolling a 20-sided die. Each attribute and skill has a value associated with it. When you roll to attempt a task or make an attack, you will roll a 20-sided die (called a d20) and if your character has a relevant skill or attribute, you may add the numeric value of the skill or attribute to the result of the roll.
 
 Characters
 =====
-Attributes
------
-Characters have 4 attributes
-Strength, Dexterity, Intelligence, Charisma
-When performing a task, roll the number of dice associated with the stat most closely related to the task. For example, coaxing information out of a townsperson would be related to Charisma. Breaking down a door would be Strength. Picking a lock would be Dexterity. Having offhand knowledge about the world would be Intelligence.
 
 Skills
 -----
 Characters have any number of skills. Skills are more specific than stats, and add bonus dice when attempting an action related to the skill. Skills are subject to GM approval, as they can't be too generic. *Doing Things* is not an appropriate skill, because it applies to too many potential tasks.
 
-An appropriate skill might be *Climbing*. Attempting to scale a cliff then would add together your dice from your base Strength skill (or optionally Dexterity, depending on which your GM deems appropriate) with your *Climbing* skill dice. With a Strength of 3D and a Climbing skill of 2D, you would roll a total of 5 dice to determine the result of your action.
+An appropriate skill might be *Climbing*. Attempting to scale a cliff then would add the value of your climbing skill to any rolls made in an attempt to accomplish a task where *Climbing* would be useful.
 
 Combining Skills
 -----
-You may use the highest of your relevant skills to make the roll, and then add +1 to the result of the roll for every die in the other applicable skill. For example, if a player has 3D in *Archery* and 2D in *Riding*, with a Dexterity attribute of 4D, they would use *Archery* + Dexterity and roll 7 dice (4D + 3D), then add +2 to the result for the 2 dice in their *Riding* skill.
+If multiple skills are relevant to a particular situation, you may use the highest of your relevant skills to make the roll, then add half of the bonus given by your secondary skill (rounded down). For example, if your character has 5 points in *Horseback Riding* and  3 points in *Archery*, attempting to make a shot while riding on a horse would mean you get a bonus of 6 to the result of your roll (5 + 3/2 rounded down = 5 + 1 = 6).
+
+Attributes
+-----
+Attributes are special skills that are used for combat. They are listed separately from other skills because unlike other skills, attributes are finite and predetermined. You do not have to allocate any skill points to attributes when creating your character (for instance, if your character is a pacifist).
+
+There are 4 attributes:
+
+- Melee Offense
+- Ranged Offense
+- Defense
+- Initiative
 
 Abilities
 -----
-Have any number of abilities. Abilities are things like casting a particular spell or going into a barbarian rage. Abilities may require any or all of three things to activate:
-**Conditions**: An ability may require certain conditions to be met before it is possible to use the ability. This could include the condition that a character must be surrounded by enemies to activate an escape maneuver, or they must be angry about something specific before they can fly into a barbarian rage.
-**Difficulty**: An ability may be difficult to use. This means it would involve a task at some difficulty level to activate. For example, casting a particular spell might be difficult and error-prone, and require a task with target difficulty 12 to activate.
-**Cost**: An ability may have a cost for its use. For example, a character might have to rest for an hour after expending a large amount of effort. Perhaps they can use a very powerful attack, but after its use they suffer a 2 dice penalty to Strength for the rest of the session. The most common cost an ability might have is its cost in "ability points". ability points are points that characters can expend to activate more powerful abilities, but must be acquired by the players via various means related to their character's "style".
+Have any number of abilities. Abilities are things like casting a spell, buffing an ally, or performing a powerful attack. Abilities generally cost ability points to activate.
 
-An ability could require none of these things at all. For example, a character might want to have the ability to radiate a soft light from their hands when exploring dark places. This doesn't require any specific conditions to be present, might be trivial to activate, and doesn't cost anything to the user.
-
-Once an ability is activated, it takes effect. The effect should generally be more powerful if the conditions for using the skill are rare or difficult to meet, if the target difficulty of the ability is high, or if the cost is severe.
+When a character rests for a night, they reset their ability point total to 3. After that, they may gain additional ability points via their *Style*.
 
 Style
 -----
 A style describes how a character generates their ability points. For example, a "Barbarian Rage" style might give a character an ability point any time an "attack" (physical or verbal) is made against the player, which dissipate when the character is no longer angry as a result of this action. A "Scholar" or "Wizard" style might give a character 8 "focus" points that replenish when the character sleeps for a night. A "rogue" style might give the player 3 points to use any time they make an attack on an enemy that is unaware of their presence, or a single point any time they successfully use sleight of hand to steal or cheat.
 
+Talents
+-----
+Talents are aspects of your character that are passive in nature. For instance, if your character can read many languages, or if they can see perfectly in the dark, those aspects of your character would be considered *Talents*.
+
 Creating a New Character
 -----
-Characters start with 12 dice to distribute among stats, 7 dice to distribute among skills, three abilities, 5 inventory points, and a single style.
+Characters start with 15 points to distribute among attributes, 20 points to distribute among skills, three abilities, two talents, and a single style.
+Attribute points may instead be spent to acquire or improve skills. However, you may not use skill points to acquire or improve attributes.
 
-Stats are limited to 4 dice at level 1.
+Skills and attributes are limited to 5 points at level 1.
 
-Skills are limited to 2 dice at level 1.
+Characters begin with 5 inventory points and 3 ability points.
 
 Leveling Up
 -----
@@ -119,7 +125,7 @@ Combat in this system is deadly. Enemies are felled in a single swipe, and you y
 
 Initiative
 -----
-Initiative is incredibly important when combat is resolved in a single strike. It's not uncommon for combat to be entirely resolved within a single turn! To determine initiative order for players, roll a Dexterity check and add any relevant skills, such as "Quick Reflexes", "Initiative", or "Preparing for the Unexpected". In the event that two players have an equal initiative, the party should decide among themselves which character will take their turn first.
+Initiative is incredibly important when combat is resolved in a single strike. It's not uncommon for combat to be entirely resolved within a single turn! To determine initiative order for players, roll as normal and add the value of the character's *Initiative* attribute. In the event that two players have an equal initiative, the party should decide among themselves which character will take their turn first.
 
 Enemies have set numbers for their initiatives, and in the event of two enemies with an equal initiative score, they can be arranged in any order the GM desires.
 
@@ -136,11 +142,13 @@ During your turn, you get one action. This action may be movement between melee 
 
 Attacking
 -----
-When attacking an enemy, you must clear a task of their target difficulty with one of your combat skills. If you succeed, the enemy is incapacitated for the rest of the fight. As a rule of thumb, melee attacks are generally governed by Strength checks, ranged attacks by Dexterity checks, and magical or supernatural attacks by Intelligence checks.
+Every character has one or more "basic attacks". These represent the way that your character will generally perform combat. A soldier might have a longsword and shield, as well as a dagger. A wilderness ranger might have a shortbow and a shortsword. A mage might cast arcane missiles or bolts of fire. None of these attacks cost any ability points to use or have any special properties beyond being either a *melee* attack or a *ranged* attack. They just add flair to your character's playstyle.
+
+When attacking an enemy, you must clear a task of their target difficulty with your relevant combat skill (either melee offense or ranged offense).
 
 Defending
 -----
-When an enemy attacks a player, the player again rolls for a relevant skill/attribute combination and attempts to clear the target difficulty of the enemy's strike. If they fail, the player has *fallen* in battle and is unable to contribute to the rest of the fight. The attribute used to defend against attacks is slightly different than when attacking. Strength is still used to defend against melee attacks, and Dexterity for ranged, but if an enemy casts a spell, generally you'd dodge it as a ranged attack with Dexterity. Intelligence defenses are instead used for attacks that focus on dominating a player character's mind or attempting to use a curse on them that cannot be dodged.
+When an enemy attacks a player, the player rolls a d20, adding their *Defense* attribute to the result, and attempts to clear the target difficulty of the enemy's strike. If they fail, the player has *fallen* in battle and is unable to contribute to the rest of the fight. 
 
 Epic Combat
 -----
@@ -151,7 +159,7 @@ When designing boss encounters, it can often be effective to not utilize the epi
 
 Player vs Player Combat
 -----
-Rarely, players may enter combat with each other. In these circumstances, most rules remain the same, with the exception of attacking and defending rolls. Instead of clearing a target difficulty, every attack and defense roll is made in opposition to your opponent's corresponding roll. If Urgor the Orc attacks Elendia the Elf, Urgor makes an attack roll using their relevant attribute and skill, and Elendia makes a defense roll using her relevant attribute and skill. If the attacker's roll result is higher than the defender's, the attack succeeds and the defender falls in battle. Otherwise, the defender successfully defends and combat continues.
+Rarely, players may enter combat with each other. In these circumstances, most rules remain the same, with the exception of attacking and defending rolls. Instead of clearing a target difficulty, every attack and defense roll is made in opposition to your opponent's corresponding roll. If Urgor the Orc attacks Elendia the Elf with his battleaxe, Urgor makes an attack roll using their *Melee Offense* attribute and Elendia makes a defense roll using her *Defense* attributeand skill. If the attacker's roll result is higher than the defender's, the attack succeeds and the defender falls in battle. Otherwise, the defender successfully defends and combat continues.
 
 Death and Failure
 =====

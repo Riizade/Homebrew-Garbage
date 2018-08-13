@@ -11,7 +11,7 @@ Barbarian
 
 Scholar
 -----
-**Focus** - The character gains 8 ability points any time their character gets a good night's sleep. They cannot exceed 8 ability points in this way at any time.
+**Research** - Gain one ability point any time the character actively seeks out new information, whether via reading a book or conversing with people.
 
 Tactician
 -----
