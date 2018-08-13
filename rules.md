@@ -71,8 +71,6 @@ Attribute points may instead be spent to acquire or improve skills. However, you
 
 You may place a maximum of 5 points into a particular skill or attribute at level 1.
 
-Instead of starting at 0, Ranged Offense is considered to start at -3. That means the largest value of Ranged Offense that can be attained at level 1 is 2.
-
 Characters begin with 5 inventory points and 3 ability points.
 
 Leveling Up
@@ -133,6 +131,10 @@ Attacking
 Every character has one or more "basic attacks". These represent the way that your character will generally perform combat. A soldier might have a longsword and shield, as well as a dagger. A wilderness ranger might have a shortbow and a shortsword. A mage might cast arcane missiles or bolts of fire. None of these attacks cost any ability points to use or have any special properties beyond being either a *melee* attack or a *ranged* attack. They just add flair to your character's playstyle.
 
 When attacking an enemy, you must clear a task of their target difficulty with your relevant combat skill (either melee offense or ranged offense).
+
+Melee attacks can only be used when the character is in melee range, and can only be used against enemies that are also in melee range.
+
+Ranged attacks can be used against any combatant at any range, but every ranged attack is made with a -3 penalty to the roll.
 
 Defending
 -----
