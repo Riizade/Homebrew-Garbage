@@ -71,6 +71,8 @@ Attribute points may instead be spent to acquire or improve skills. However, you
 
 Skills and attributes are limited to 5 points at level 1.
 
+Instead of starting at 0, Ranged Offense is considered to start at -3.
+
 Characters begin with 5 inventory points and 3 ability points.
 
 Leveling Up
