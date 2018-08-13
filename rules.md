@@ -81,13 +81,13 @@ Levels are granted at GM discretion, but should be granted any time a large stor
 
 Level 1 characters represent competent adventurers, who may face off against a few undead, a small military scouting party, or a small camp of bandits.
 
-Level 2 characters represent experienced adventurers who might take on an entire cult of necromancers, a military squadron, or a large group of bandits with their leader.
+Level 2 characters represent experienced adventurers who might take on a small collection of necromancers, a military squadron, or a group of bandits with their leader.
 
-Level 3 characters represent heroic adventurers who are capable of defeating a lich or a dragon.
+Level 3 characters represent heroic adventurers who can defeat large monsters such as dire wolves and terrifying evils such as vampires.
 
-Level 4 characters represent legendary adventurers on par with the entire military strength of a nation or multiple ancient evils.
+Level 4 characters represent epic adventurers who could emerge victorious against capable, organized threats such as an invading barbarian tribe or a necromantic cult.
 
-Level 5 characters represent godlike adventurers with the strength to defeat elder gods and world-ending abominations.
+Level 5 characters represent legendary adventurers who are capable of defeating an ancient evil such as a lich or a dragon.
 
 Tasks
 =====
