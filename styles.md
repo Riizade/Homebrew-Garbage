@@ -15,7 +15,7 @@ Scholar
 
 Tactician
 -----
-**Preparation** - Any time the character has one hour or more where they can perform activity uninterrupted, they may gain 3 ability points. The character cannot exceed 3 ability points at any time.
+**Battle-planning** - Any time the party rolls for initiative, the character gains 3 ability points that may only be used during the resulting combat.
 
 Hoarder
 -----
