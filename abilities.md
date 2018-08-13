@@ -25,7 +25,7 @@ Resilience
 -----
 **Cost**: 2 ability points
 
-When you fall in battle, you may expend 3 ability points to remain standing.
+When you fall in battle, you may expend 2 ability points to remain wounded instead.
 
 Alternate flavors: Uncanny Dodge, Fated Purpose
 
@@ -33,7 +33,7 @@ Defend
 -----
 **Cost**: 1 ability point
 
-For the next round, any time your ally would be attacked, you may choose to make yourself the target of the attack instead and gain a +3 bonus to the defense roll.
+You must be in melee range to use this ability. You may choose an ally in melee range. For the rest of combat, any time your ally would be attacked, you may choose to make yourself the target of the attack instead. This effect expires if you are wounded or fall in battle.
 
 Ferocity
 -----
@@ -67,13 +67,21 @@ You may spend any number of ability points to give an ally the same number of po
 
 Alternate flavors: Channel Energy, Share Soul
 
-Second Wind
+Heal
 -----
-**Cost**: 2 ability points
+**Cost**: 1 ability points
+
+You may target a wounded ally. The targeted ally is no longer wounded.
+
+Alternate Flavors: Second Wind, Rejuvenate, Bandage
+
+Resurrect
+-----
+**Cost**: 3 ability points
 
 You may target a fallen ally. The ally is no longer considered fallen, and may rejoin the battle.
 
-Alternate Flavors: Resurrect, Bandage
+Alternate Flavors: Stitch Wounds, Restore Life
 
 Turn Undead
 -----

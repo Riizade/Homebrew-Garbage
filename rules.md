@@ -66,7 +66,7 @@ Talents are aspects of your character that are passive in nature. For instance, 
 
 Creating a New Character
 -----
-Characters start with 15 points to distribute among attributes, 20 points to distribute among skills, three abilities, three talent points, and a single style.
+Characters start with 9 points to distribute among attributes, 20 points to distribute among skills, three abilities, three talent points, and a single style.
 Attribute points may instead be spent to acquire or improve skills. However, you may not use skill points to acquire or improve attributes.
 
 You may place a maximum of 5 points into a particular skill or attribute at level 1.
@@ -136,9 +136,30 @@ Melee attacks can only be used when the character is in melee range, and can onl
 
 Ranged attacks can be used against any combatant at any range, but every ranged attack is made with a -3 penalty to the roll.
 
+If the character's attack roll exceeds the target defense value of the enemy, the enemy falls in combat.
+
 Defending
 -----
-When an enemy attacks a player, the player rolls a d20, adding their *Defense* attribute to the result, and attempts to clear the target difficulty of the enemy's strike. If they fail, the player has *fallen* in battle and is unable to contribute to the rest of the fight. 
+When an enemy attacks a player, the player rolls a d20, adding their *Defense* attribute to the result, and attempts to clear the target difficulty of the enemy's strike. If they fail, the player has been *wounded* in battle and is unable to contribute to the battle until they recover.
+
+Wounding and Falling
+-----
+If the player fails to defend an enemy attack, they become *Wounded*.
+
+Once the player is wounded, the only action they may take on their turn is attempt to recover from their injuries. The player, on their turn, rolls a d20 and adds their Defense attribute score to the result. If the total roll exceeds 12, the character recovers and rejoins the battle. The player must wait until the next round of combat to take another action, however.
+
+If the player is attacked by an enemy while they are in the wounded state, they make a Defense roll as normal. If they fail to defend while wounded, the player has *Fallen* in combat, and may no longer take any actions on their turn.
+
+Non-player characters do not have the *Wounded* state. If they are struck in combat, they immediately fall in battle.
+
+At the end of combat, all wounded and fallen characters recover from their injuries and continue their adventures.
+
+Wounding and Positioning
+-----
+If all players in melee range are *Wounded* or *Fallen*, the enemies may advance forward to reach a player in *Far* range. When the enemies do so, all *Wounded* or *Fallen* player characters that were in *Melee* range instead become part of the *Far* range.
+
+### GM Notes
+Utilizing the wounded state can be a good tool for DMs to adjust the combat difficulty of an encounter on-the-fly. If an encounter is too easy, consider making the enemy combatants actively attempt to finish off players to cause them to fall in battle, rather than remain wounded. If an encounter is too difficult, a good option is to have enemies ignore wounded players, instead opting to attack their still-living allies, affording players an opportunity to recover and rejoin combat.
 
 Epic Combat
 -----
@@ -149,16 +170,16 @@ When designing boss encounters, it can often be effective to not utilize the epi
 
 Player vs Player Combat
 -----
-Rarely, players may enter combat with each other. In these circumstances, most rules remain the same, with the exception of attacking and defending rolls. Instead of clearing a target difficulty, every attack and defense roll is made in opposition to your opponent's corresponding roll. If Urgor the Orc attacks Elendia the Elf with his battleaxe, Urgor makes an attack roll using their *Melee Offense* attribute and Elendia makes a defense roll using her *Defense* attributeand skill. If the attacker's roll result is higher than the defender's, the attack succeeds and the defender falls in battle. Otherwise, the defender successfully defends and combat continues.
+Rarely, players may enter combat with each other. In these circumstances, most rules remain the same, with the exception of attacking and defending rolls. Instead of clearing a target difficulty, every attack and defense roll is made in opposition to your opponent's corresponding roll. If Urgor the Orc attacks Elendia the Elf with his battleaxe, Urgor makes an attack roll using their *Melee Offense* attribute and Elendia makes a defense roll using her *Defense* attributeand skill. If the attacker's roll result is higher than the defender's, the attack succeeds and the defender is wounded. Otherwise, the defender successfully defends and suffers no injuries.
 
 Death and Failure
 =====
-When a player fails a skill check or is incapacitated in combat, they should suffer some consequences as a result of their failure.
+When a player fails a skill check or falls in combat, they should suffer some consequences as a result of their failure.
 
 For many tasks and skill checks, the consequences of failure are determined entirely on-the-fly by the GM. For example, if a player character fails to persuade a townsperson to tell them a closely guarded secret, the townsperson may refuse to interact with them further, or even begin to speak angrily of the players to other townsfolk, impacting the party's reputation in that region.
 
 ### GM Notes
-Determining the appropriate penalty for failure can be difficult. A good rule of thumb is that failure should move the narrative forward, just in a less desirable way than a success. If the party is looking for an enemy encampment, and they encounter enemy scouts, they might initiate combat. Upon winning combat, they might learn the location of the enemy encampment from the scouts, and are able to form a plan of attack. On a combat loss, the party might be captured and taken to the enemy encampment and begin the next stage of the story bound together, with no remaining inventory points.
+Determining the appropriate penalty for failure can be difficult. A good rule of thumb is that failure should move the narrative forward, just in a less desirable way than a success. If the party is looking for an enemy encampment, and they encounter enemy scouts, they might initiate combat. Upon winning combat, they might learn the location of the enemy encampment from the scouts, and are able to form a plan of attack. On a combat loss, the party might be captured and taken to the enemy encampment and begin the next stage of the story bound together, with no remaining inventory or ability points.
 
 Death is of course, optional. Many players are attached to their characters and want to take the same character on adventures in campaigns spanning months or years. However, for a particularly "hardcore dungeon-delve" kind of experience, any time a player character falls in battle, you might rule that they die. Or perhaps they must roll a task check to determine whether or not they die. This can be an interesting alternative way to play the game, causing a real sense of danger and foreboding for players that may be suitable for a darker or more mature campaign setting.
 
