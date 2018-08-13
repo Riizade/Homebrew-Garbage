@@ -69,9 +69,9 @@ Creating a New Character
 Characters start with 15 points to distribute among attributes, 20 points to distribute among skills, three abilities, two talents, and a single style.
 Attribute points may instead be spent to acquire or improve skills. However, you may not use skill points to acquire or improve attributes.
 
-Skills and attributes are limited to 5 points at level 1.
+You may place a maximum of 5 points into a particular skill or attribute at level 1.
 
-Instead of starting at 0, Ranged Offense is considered to start at -3.
+Instead of starting at 0, Ranged Offense is considered to start at -3. That means the largest value of Ranged Offense that can be attained at level 1 is 2.
 
 Characters begin with 5 inventory points and 3 ability points.
 
