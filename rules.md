@@ -1,4 +1,4 @@
-Quick Six
+Homebrew Garbage
 =====
 A rules-light tabletop RPG designed to be fast to play and incredibly easy to expand upon.
 
@@ -93,31 +93,17 @@ Most challenges in the game can be represented as "tasks". Tasks represent your 
 
 Task difficulties:
 -----
-2-5: Trivial.
-Most people can do this without much effort, but might make a mistake with incredibly poor luck. These checks should only be made if they are critical to the session in some way.
-Examples: driving at a comfortable pace, or searching a room for something you've misplaced.
-6-10: Easy.
-Untrained persons might have difficulty with these tasks, but they should be second-nature to skilled characters.
-Examples: Hammering in a nail,
-11-15: Moderate.
-These tasks are consistently achievable only by persons trained in the task, but still carries a small risk of failure. Unlikely for an untrained person to consistently succeed at tasks of this difficulty.
-16-20: Expert-level.
-Tasks that require training to even have a small chance of success, and that can be challenging even for trained persons.
-21-30: Mastery.
-Requires mastery over a task to attempt this tier, it is very unlikely for anyone else to succeed.
-31-35: Heroic.
-These tasks are highly improbable for even masters to accomplish, and represent a large amount of both mastery and luck contributing to a success at a task of this magnitude.
-35+: Legendary.
-These tasks are almost impossible. Borderline unbelievable even when witnessed firsthand, and worthy of tales that will be told for generations.
+WORK IN PROGRESS
+This section will contain a table of a target roll value, and a description of how difficult the task it represents is to accomplish.
 
 Attempting a Task
 -----
-To attempt a task, players roll dice according to the relevant attribute (as determined by the GM), and make an argument for any skills they think might apply to the task. Once the appropriate attribute and skill(s) have been chosen, the player rolls all the dice they have available as a result.
+To attempt a task, players roll their 20-sided die and make an argument for any skills they think might apply to the task. Once the appropriate attribute and skill(s) have been chosen, the player rolls their 20-sided die and adds the relevant bonus to the result of their roll. They then compare their total result to the target difficulty of the task. If their total result meets or exceeds the target difficulty, they've succeeded at the task. Otherwise, they've failed.
 
 Tasks in general can only be attempted once per party, not per character. For example, if a lock must be picked, the party should elect to have the character with the greatest dice pool for that particular task roll to attempt to pick the lock. Their success or failure represents the party's entire efforts.
 
 ### GM Notes
-Any skill check can become a minigame where the player makes their best argument to add a particular skill's dice to their roll, and the GM ultimately decides whether or not it makes sense. Many great moments can be had by applying a skill to an unexpected situation. It should be determined with care, however, just because a character is great at tying knots, doesn't mean they're "good with their hands" and can pick locks. A broad generalization like this causes even the most specific skills to end up essentially applying a flat dice bonus to an entire attribute.
+Any skill check can become a minigame where the player makes their best argument to add a particular skill's dice to their roll, and the GM ultimately decides whether or not it makes sense. Many great moments can be had by applying a skill to an unexpected situation. It should be determined with care, however, just because a character is great at tying knots, doesn't mean they're "good with their hands" and can pick locks. A broad generalization like this causes even the most specific skills to end up essentially applying a flat bonus to most tasks.
 
 Combat
 =====
