@@ -222,4 +222,4 @@ Interesting items can often be easily created on the fly by selecting an ability
 
 Loot
 -----
-When the party overcomes a challenge and receives a reward, those rewards will often be in the form of permanently held interesting items. However, for a smaller or more temporary reward, such as items gaine from pickpocketing a townsperson or looting the corpses of dead adventurers, a character may gain one or more inventory points instead.
+When the party overcomes a challenge and receives a reward, those rewards will often be in the form of permanently held interesting items. However, for a smaller or more temporary reward, such as items gained from pickpocketing a townsperson or looting the corpses of dead adventurers, a character may gain one or more inventory points instead.
