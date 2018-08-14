@@ -83,14 +83,6 @@ You may target a fallen ally. The ally is no longer considered fallen, and may r
 
 Alternate Flavors: Stitch Wounds, Restore Life
 
-Turn Undead
------
-**Cost**: 1 ability point
-
-You may make an attack against an enemy undead with a +5 bonus to your roll.
-
-Alternate Flavors: Hunt Beast, Exterminate Demon
-
 Smite Undead
 -----
 **Cost**: 3 ability points
@@ -114,20 +106,6 @@ Cleave
 Instead of making one attack, you may make two attacks, directed at two different targets.
 
 Alternate Flavors: Double Strike, Twin Arrows, Soul Link
-
-Tactical Positioning
------
-**Cost**: 1 ability point
-
-When only allies remain in melee range, you may use this ability to bring one additional enemy into melee range. This ability may be used multiple times at once.
-
-Track Beast
------
-**Cost**: 1 ability point
-
-You may sense the locations of any beasts (creatures of a dog's size or larger, but of less than human intelligence)
-
-Alternate Flavors: Sense Undead, Detect Humanoids
 
 Divine Guidance
 -----

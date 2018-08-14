@@ -46,3 +46,25 @@ Vengeance
 **Cost**: 1 talent point
 
 When an ally falls in combat, you gain a +3 to any attack rolls made against the enemy that felled your ally.
+
+Track Beast
+-----
+**Cost**: 1 talent point
+
+You may sense the locations of any beasts (creatures of a dog's size or larger, but of less than human intelligence)
+
+Alternate Flavors: Sense Undead, Detect Humanoids
+
+Tactical Positioning
+-----
+**Cost**: 1 talent point
+
+When only allies remain in melee range, you may use this ability to bring one additional enemy into melee range.
+
+Hunt Beast
+-----
+**Cost**: 1 talent point
+
+Any time you make an attack against a beast, you gain a +3 bonus to the roll.
+
+Alternate Flavors: Demon Hunter, Vampire Hunter, Undead Specialist
