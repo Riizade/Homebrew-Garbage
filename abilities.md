@@ -115,6 +115,12 @@ You may commune with your patron deity or one of its representatives for a short
 
 Alternate Flavors: Commune with the Dead, Call Upon Ancestors, Read Fortune
 
+Divine Intervention
+-----
+**Cost**: 2 ability points
+
+You commune with your patron deity and request divine intervention on your behalf. You must succeed at a task with a target difficulty of 12 to receive divine assistance. You cannot make a specific request, and the result of the intervention is entirely up to the Game Master.
+
 Beastform
 -----
 **Cost**: 3 ability points
@@ -128,3 +134,23 @@ Feather Fall
 **Cost**: 1 ability point
 
 You may choose up to 6 creatures or objects in far range (including yourself). For the next 5 minutes, all of the targets fall slowly enough to land gently, no matter the height.
+
+Explosion
+-----
+**Cost**: 3 ability points
+
+You make an attack against every unit in melee range (including allies, but excluding yourself). The attack has a -3 penalty to hit against enemies and a -5 penalty to hit against allies. Make a different roll for each target.
+
+Alternate Flavors: Unbound Energy, Wild Rage
+
+Assassinate
+-----
+**Cost**: 3 ability points
+
+You may immediately fell an enemy that has not yet acted during the current combat encounter.
+
+Taunt
+-----
+**Cost**: 1 ability point
+
+Choose an enemy. The chosen enemy may only attack you during the next round of combat.

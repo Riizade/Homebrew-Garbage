@@ -68,3 +68,31 @@ Hunt Beast
 Any time you make an attack against a beast, you gain a +3 bonus to the roll.
 
 Alternate Flavors: Demon Hunter, Vampire Hunter, Undead Specialist
+
+Fire Resistant
+-----
+**Cost**: 1 talent point
+
+Any time you defend against fire damage, you gain a +3 bonus to the defense roll.
+
+Alternate Flavors: Cold Resistance, Thick Skin, Hard Scales
+
+Fleet-footed
+-----
+**Cost**: 2 talent points
+
+During combat, you may move once per turn without expending an action.
+
+Expert Dodge
+-----
+**Cost**: 3 talent points
+
+Once per combat round, if you fail to defend against an attack, you may roll once more and take the new result.
+
+Alternate Flavors: Shieldmaster, Deft Parrying
+
+Analytical Conversationalist
+-----
+**Cost**: 1 talent point
+
+During combat, you have a +2 bonus to offensive rolls made against targets with whom you've had a previous conversation.

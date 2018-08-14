@@ -37,3 +37,7 @@ Diplomat
 Naturalist
 -----
 **Affinity for Nature** - Any time you utilize nature's bounty to sustain yourself or overcome an obstacle, you may gain 1 ability point. (For example, you might forage or hunt for food rather than packing rations, or create a bed out of plants rather than bringing along a bedroll)
+
+Glutton
+-----
+**Insatiable** - Any time you eat a large animal such as a goat or pig, or otherwise have a large feast, you may gain 1 ability point.
