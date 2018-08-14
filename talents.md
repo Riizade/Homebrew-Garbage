@@ -96,3 +96,17 @@ Analytical Conversationalist
 **Cost**: 1 talent point
 
 During combat, you have a +2 bonus to offensive rolls made against targets with whom you've had a previous conversation.
+
+Rolling Landing
+-----
+**Cost**: 1 talent point
+
+You do not suffer risk of injury when falling from great heights.
+
+Alternate Flavors: Light as a Feather
+
+Reckless Attack
+-----
+**Cost**: 2 talent points
+
+You may take two actions during your turn in combat. During your next turn, however, you may not take any actions at all.
