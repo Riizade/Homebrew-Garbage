@@ -67,7 +67,7 @@ Hunt Beast
 
 Any time you make an attack against a beast, you gain a +3 bonus to the roll.
 
-Alternate Flavors: Demon Hunter, Vampire Hunter, Undead Specialist
+Alternate Flavors: Demon Hunter, Vampire Hunter, Undead Specialist, Mage Slayer
 
 Fire Resistant
 -----
@@ -129,3 +129,8 @@ Spiteful Blow
 
 Any time you become wounded, you may immediately make an attack against the target that wounded you as long as you would normally be able to attack the target on your turn. (They must be in range).
 
+Counterattack
+-----
+**Cost**: 2 talent points
+
+Once per turn, when you are attacked and successfully defend against the attack, you may immediately attack the enemy that targeted you. Your counterattack is made with a -3 penalty to the roll.
