@@ -154,3 +154,9 @@ Taunt
 **Cost**: 1 ability point
 
 Choose an enemy. The chosen enemy may only attack you during the next round of combat.
+
+Stroke of Luck
+-----
+**Cost**: 1 ability point
+ 
+ You may reroll a result for a task, attack, defense or any other roll and take the higher of the two rolls.

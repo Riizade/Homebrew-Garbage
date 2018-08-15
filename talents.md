@@ -110,3 +110,22 @@ Reckless Attack
 **Cost**: 2 talent points
 
 You may take two actions during your turn in combat. During your next turn, however, you may not take any actions at all.
+
+Mimicry
+-----
+**Cost**: 1 talent point
+
+You are able to accurately mimic the voices of other people and the sounds of other creatures.
+
+Resilient
+-----
+**Cost**: 1 talent point
+
+You gain a +2 bonus to rolls made as attempts to recover from being wounded.
+
+Spiteful Blow
+-----
+**Cost**: 1 talent point
+
+Any time you become wounded, you may immediately make an attack against the target that wounded you as long as you would normally be able to attack the target on your turn. (They must be in range).
+
