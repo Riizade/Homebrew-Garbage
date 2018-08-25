@@ -105,7 +105,7 @@ Cleave
 
 Instead of making one attack, you may make two attacks, directed at two different targets.
 
-Alternate Flavors: Double Strike, Twin Arrows, Soul Link
+Alternate Flavors: Double Strike, Twin Arrows
 
 Divine Guidance
 -----
@@ -159,4 +159,18 @@ Stroke of Luck
 -----
 **Cost**: 1 ability point
  
- You may reroll a result for a task, attack, defense or any other roll and take the higher of the two rolls.
+You may reroll a result for a task, attack, defense or any other roll and take the higher of the two rolls.
+
+Soul Link
+-----
+**Cost**: 1 ability point
+
+You may link any two units to each other. When you use this ability, you may choose to share positive effects or negative effects. Until your next turn, all effects of the chosen type that affects one of the units instead affects both. Positive effects includes things like healing/resurrection, buffs, etc. Negative effects include things like wounding/falling in combat and debuffs.
+
+Stun
+-----
+**Cost**: 1 ability point
+
+The targeted enemy cannot take any actions until after your next turn.
+
+Alternate Flavors: Sleep, Disorient, Confusion
