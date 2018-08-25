@@ -94,7 +94,7 @@ Most challenges in the game can be represented as "tasks". Tasks represent your 
 Task difficulties:
 -----
 WORK IN PROGRESS
-This section will contain a table of a target roll value, and a description of how difficult the task it represents is to accomplish.
+This section will contain a table of a target roll value, and a description of how difficult is s to accomplish the task it represents.
 
 Attempting a Task
 -----
@@ -152,7 +152,7 @@ If the player is attacked by an enemy while they are in the wounded state, they 
 
 Non-player characters do not have the *Wounded* state. If they are struck in combat, they immediately fall in battle.
 
-At the end of combat, all wounded and fallen characters recover from their injuries and continue their adventures.
+At the end of combat, all wounded and fallen player characters recover from their injuries and continue their adventures. Fallen enemies are not necessarily dead, they may be interrogated or captured by the players. The players may instead choose to finish them off. Of course, the GM can always decide that combat was particularly brutal and no enemies survived after the end of combat.
 
 Wounding and Positioning
 -----
