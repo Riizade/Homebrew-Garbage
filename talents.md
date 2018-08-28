@@ -136,3 +136,9 @@ Counterattack
 **Cost**: 2 talent points
 
 Once per turn, when you are attacked and successfully defend against the attack, you may immediately attack the enemy that targeted you. Your counterattack is made with a -3 penalty to the roll.
+
+Tremorsense
+-----
+**Cost**: 1 talent point
+
+You can use vibrations of the ground to detect the presence of creatures and movement. You no longer need normal sight in order to fight.

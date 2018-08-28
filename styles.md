@@ -44,6 +44,9 @@ Glutton
 
 Focused
 ----
-**Empty-handed** - You no longer have inventory points, and can no longer gain inventory points.
-
+**Empty-handed** - You no longer have inventory points, and can no longer gain inventory points.\
 **Skilled** - You gain two additional styles.
+
+Vampiric
+-----
+**Blood-thirsty** - Any time you drink the blood of a living creature, you may gain one ability point.

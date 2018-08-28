@@ -180,3 +180,33 @@ Hook
 **Cost**: 1 ability point
 
 The targeted enemy is forcibly moved from Far range to Melee range.
+
+Dig
+-----
+**Cost**: 1 ability point
+
+Dig yourself underground temporarily. Until your next turn, you gain a +5 bonus to all defense rolls. On your next turn, emerge from underground and make an attack against an enemy in melee range.
+
+Tunnel
+-----
+**Cost**: 1 ability point
+
+You can create an underground tunnel between two locations.
+
+Hunter's Mark
+-----
+**Cost**: 1 ability point
+
+Mark someone as your target. The next time you make an attack against the target, you get a +6 bonus to the roll.
+
+Petrify
+-----
+**Cost**: 1 ability point
+
+You can temporarily turn a target into stone. For the next two rounds, the target cannot act, but they gain a +5 bonus to all defense rolls.
+
+Mark Target
+-----
+**Cost**: 1 ability point
+
+Mark an enemy. Until your next turn, all attacks made against this enemy gain a +3 bonus to the attack roll.
