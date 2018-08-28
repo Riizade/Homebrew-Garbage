@@ -20,7 +20,7 @@ The core rules are designed to be simple enough and generic enough to implement 
 
 Work in Progress
 =====
-Everything contained within this ruleset is a work-in-progress. Some sections contain multiple options for the rules governing particular interactions because the system is currently in development. Everything is subject to change, and all numbers are currently placeholders. This includes task difficulties, inventory points, level-up rewards, skill dice caps, etc.
+Everything contained within this ruleset is a work-in-progress. Some sections contain multiple options for the rules governing particular interactions because the system is currently in development. Everything is subject to change, and all numbers are currently placeholders. This includes task difficulties, inventory points, level-up rewards, skill bonus caps, etc.
 
 Rolling Dice
 =====
