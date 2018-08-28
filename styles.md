@@ -41,3 +41,9 @@ Naturalist
 Glutton
 -----
 **Insatiable** - Any time you eat a large animal such as a goat or pig, or otherwise have a large feast, you may gain 1 ability point.
+
+Focused
+----
+**Empty-handed** - You no longer have inventory points, and can no longer gain inventory points.
+
+**Skilled** - You gain two additional styles.
