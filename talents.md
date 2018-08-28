@@ -59,7 +59,7 @@ Tactical Positioning
 -----
 **Cost**: 1 talent point
 
-When only allies remain in melee range, you may use this ability to bring one additional enemy into melee range.
+When only allies remain in melee range, you may bring one additional enemy into melee range.
 
 Hunt Beast
 -----
@@ -128,6 +128,8 @@ Spiteful Blow
 **Cost**: 1 talent point
 
 Any time you become wounded, you may immediately make an attack against the target that wounded you as long as you would normally be able to attack the target on your turn. (They must be in range).
+
+Alternate Flavors: Thorns, Static Discharge
 
 Counterattack
 -----
