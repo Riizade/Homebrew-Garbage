@@ -24,14 +24,14 @@ Everything contained within this ruleset is a work-in-progress. Some sections co
 
 Rolling Dice
 =====
-This system is a variant of the d20 ruleset. That means that you will primarily interact with the game by rolling a 20-sided die. Each attribute and skill has a value associated with it. When you roll to attempt a task or make an attack, you will roll a 20-sided die (called a d20) and if your character has a relevant skill or attribute, you may add the numeric value of the skill or attribute to the result of the roll.
+This system is a variant of the d20 ruleset. That means that you will primarily interact with the game by rolling a 20-sided die. Each skill has a bonus value associated with it. When you roll to attempt a task or make an attack, you will roll a 20-sided die (called a d20) and if your character has a relevant skill, you may add the numeric value of the skill to the result of the roll.
 
 Characters
 =====
 
 Skills
 -----
-Characters have any number of skills. Skills are more specific than stats, and add bonus dice when attempting an action related to the skill. Skills are subject to GM approval, as they can't be too generic. *Doing Things* is not an appropriate skill, because it applies to too many potential tasks.
+Characters have any number of skills. Skills add a bonus value when attempting an action related to the skill. Skills are subject to GM approval, as they can't be too generic. *Doing Things* is not an appropriate skill, because it applies to too many potential tasks.
 
 An appropriate skill might be *Climbing*. Attempting to scale a cliff then would add the value of your climbing skill to any rolls made in an attempt to accomplish a task where *Climbing* would be useful.
 
@@ -39,11 +39,11 @@ Combining Skills
 -----
 If multiple skills are relevant to a particular situation, you may use the highest of your relevant skills to make the roll, then add half of the bonus given by your secondary skill (rounded down). For example, if your character has 5 points in *Horseback Riding* and  3 points in *Archery*, attempting to make a shot while riding on a horse would mean you get a bonus of 6 to the result of your roll (5 + 3/2 rounded down = 5 + 1 = 6).
 
-Attributes
+Combat Skills
 -----
-Attributes are special skills that are used for combat. They are listed separately from other skills because unlike other skills, attributes are finite and predetermined. You do not have to allocate any skill points to attributes when creating your character (for instance, if your character is a pacifist).
+Combat skills are special skills that are used for combat. They are listed separately from other skills because unlike other skills, combat skills are finite and predetermined. You do not have to allocate any skill points to combat skills when creating your character (for instance, if your character is a pacifist). When making a roll using a combat skill, such as when attacking in combat, you may only add the relevant combat skill to the roll. You cannot have a skill such as, say, "Swordsmanship" and add half its bonus to your melee attack rolls when using a sword.
 
-There are 4 attributes:
+There are 4 combat skills:
 
 - Melee Offense
 - Ranged Offense
@@ -66,10 +66,10 @@ Talents are aspects of your character that are passive in nature. For instance, 
 
 Creating a New Character
 -----
-Characters start with 9 points to distribute among attributes, 20 points to distribute among skills, three abilities, three talent points, and a single style.
-Attribute points may instead be spent to acquire or improve skills. However, you may not use skill points to acquire or improve attributes.
+Characters start with 9 points to distribute among combat skills, 20 points to distribute among skills, three abilities, three talent points, and a single style.
+Combat skill points may instead be spent to acquire or improve skills. However, you may not use regular skill points to acquire or improve combat skills.
 
-You may place a maximum of 5 points into a particular skill or attribute at level 1.
+You may place a maximum of 5 points into a particular skill at level 1.
 
 Characters begin with 5 inventory points and 3 ability points.
 
@@ -89,7 +89,7 @@ Level 5 characters represent legendary adventurers who are capable of defeating 
 
 Tasks
 =====
-Most challenges in the game can be represented as "tasks". Tasks represent your character attempting to overcome an obstacle by using their skills and attributes.
+Most challenges in the game can be represented as "tasks". Tasks represent your character attempting to overcome an obstacle by using their skills.
 
 Task difficulties:
 -----
@@ -98,7 +98,7 @@ This section will contain a table of a target roll value, and a description of h
 
 Attempting a Task
 -----
-To attempt a task, players roll their 20-sided die and make an argument for any skills they think might apply to the task. Once the appropriate attribute and skill(s) have been chosen, the player rolls their 20-sided die and adds the relevant bonus to the result of their roll. They then compare their total result to the target difficulty of the task. If their total result meets or exceeds the target difficulty, they've succeeded at the task. Otherwise, they've failed.
+To attempt a task, players roll their 20-sided die and make an argument for any skills they think might apply to the task. Once the appropriate skill(s) have been chosen, the player rolls their 20-sided die and adds the relevant bonus to the result of their roll. They then compare their total result to the target difficulty of the task. If their total result meets or exceeds the target difficulty, they've succeeded at the task. Otherwise, they've failed.
 
 Tasks in general can only be attempted once per party, not per character. For example, if a lock must be picked, the party should elect to have the character with the greatest dice pool for that particular task roll to attempt to pick the lock. Their success or failure represents the party's entire efforts.
 
@@ -111,7 +111,7 @@ Combat in this system is deadly. Enemies are felled in a single swipe, and you y
 
 Initiative
 -----
-Initiative is incredibly important when combat is resolved in a single strike. It's not uncommon for combat to be entirely resolved within a single turn! To determine initiative order for players, roll as normal and add the value of the character's *Initiative* attribute. In the event that two players have an equal initiative, the party should decide among themselves which character will take their turn first.
+Initiative is incredibly important when combat is resolved in a single strike. It's not uncommon for combat to be entirely resolved within a single turn! To determine initiative order for players, roll as normal and add the value of the character's *Initiative* skill. In the event that two players have an equal initiative, the party should decide among themselves which character will take their turn first.
 
 Enemies have set numbers for their initiatives, and in the event of two enemies with an equal initiative score, they can be arranged in any order the GM desires.
 
@@ -140,13 +140,13 @@ If the character's attack roll exceeds the target defense value of the enemy, th
 
 Defending
 -----
-When an enemy attacks a player, the player rolls a d20, adding their *Defense* attribute to the result, and attempts to clear the target difficulty of the enemy's strike. If they fail, the player has been *wounded* in battle and is unable to contribute to the battle until they recover.
+When an enemy attacks a player, the player rolls a d20, adding their *Defense* combat skill to the result, and attempts to clear the target difficulty of the enemy's strike. If they fail, the player has been *wounded* in battle and is unable to contribute to the battle until they recover.
 
 Wounding and Falling
 -----
 If the player fails to defend an enemy attack, they become *Wounded*.
 
-Once the player is wounded, the only action they may take on their turn is attempt to recover from their injuries. The player, on their turn, rolls a d20 and adds their Defense attribute score to the result. If the total roll exceeds 12, the character recovers and rejoins the battle. The player must wait until the next round of combat to take another action, however.
+Once the player is wounded, the only action they may take on their turn is attempt to recover from their injuries. The player, on their turn, rolls a d20 and adds their Defense combat skill score to the result. If the total roll exceeds 12, the character recovers and rejoins the battle. The player must wait until the next round of combat to take another action, however.
 
 If the player is attacked by an enemy while they are in the wounded state, they make a Defense roll as normal. If they fail to defend while wounded, the player has *Fallen* in combat, and may no longer take any actions on their turn.
 
@@ -170,7 +170,7 @@ When designing boss encounters, it can often be effective to not utilize the epi
 
 Player vs Player Combat
 -----
-Rarely, players may enter combat with each other. In these circumstances, most rules remain the same, with the exception of attacking and defending rolls. Instead of clearing a target difficulty, every attack and defense roll is made in opposition to your opponent's corresponding roll. If Urgor the Orc attacks Elendia the Elf with his battleaxe, Urgor makes an attack roll using their *Melee Offense* attribute and Elendia makes a defense roll using her *Defense* attributeand skill. If the attacker's roll result is higher than the defender's, the attack succeeds and the defender is wounded. Otherwise, the defender successfully defends and suffers no injuries.
+Rarely, players may enter combat with each other. In these circumstances, most rules remain the same, with the exception of attacking and defending rolls. Instead of clearing a target difficulty, every attack and defense roll is made in opposition to your opponent's corresponding roll. If Urgor the Orc attacks Elendia the Elf with his battleaxe, Urgor makes an attack roll using their *Melee Offense* combat skill and Elendia makes a defense roll using her *Defense* skill. If the attacker's roll result is higher than the defender's, the attack succeeds and the defender is wounded. Otherwise, the defender successfully defends and suffers no injuries.
 
 Death and Failure
 =====
