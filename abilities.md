@@ -174,3 +174,9 @@ Stun
 The targeted enemy cannot take any actions until after your next turn.
 
 Alternate Flavors: Sleep, Disorient, Confusion
+
+Hook
+-----
+**Cost**: 1 ability point
+
+The targeted enemy is forcibly moved from Far range to Melee range.

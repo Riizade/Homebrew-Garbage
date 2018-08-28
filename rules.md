@@ -94,7 +94,7 @@ Most challenges in the game can be represented as "tasks". Tasks represent your 
 Task difficulties:
 -----
 WORK IN PROGRESS
-This section will contain a table of a target roll value, and a description of how difficult is s to accomplish the task it represents.
+This section will contain a table of a target roll value, and a description of how difficult it is to accomplish the task it represents.
 
 Attempting a Task
 -----
@@ -132,9 +132,9 @@ Every character has one or more "basic attacks". These represent the way that yo
 
 When attacking an enemy, you must clear a task of their target difficulty with your relevant combat skill (either melee offense or ranged offense).
 
-Melee attacks can only be used when the character is in melee range, and can only be used against enemies that are also in melee range.
+Melee attacks can only be used when the character is in melee range, and can only be used against enemies that are also in melee range. Melee attacks gain an unconditional +3 bonus to attack rolls (in addition to other bonuses, such as your Melee Offense skill).
 
-Ranged attacks can be used against any combatant at any range, but every ranged attack is made with a -3 penalty to the roll.
+Ranged attacks can be used against any combatant at any range, but gains no bonus. Ranged attacks made while in Melee range suffer a -3 penalty to the attack roll.
 
 If the character's attack roll exceeds the target defense value of the enemy, the enemy falls in combat.
 
