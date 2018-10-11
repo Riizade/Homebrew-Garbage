@@ -7,13 +7,21 @@ This document is meant to be used in conjunction with the rules document. This i
 Characters
 =====
 
-Attributes
------
-I essentially started with the D&D model, and eliminated Wisdom, because often it can be difficult to distinguish a clear line between Wisdom and Intelligence. Really? Seeing things (perception) is a "Wisdom" skill? Additionally, Constitution is gone because it too often relates to physical strength. In an abstract, somewhat metaphorical sense, there is "strength" in withstanding a wound or shrugging off the effects of a poison in the same way that there is "strength" in bending iron. Both stats lend themselves to the same core experience of playing a character who is heroic in the manner of Beowulf and Hercules insofar as they are unrealistically athletic. If you want to play this type of character, you can prioritize the *Strength* attribute, instead of being forced to choose between *Strength* and *Constitution*. This choice is not present for mage-type characters (*Intelligence*), rogue-type characters (*Dexterity*), and Bard-type characters (*Charisma*), so it should be the same for beefy bruiser-type characters.
-
 Skills
 -----
 This type of framework is used in many systems, and the primary reason I've chosen it here is so that we make no assumptions about the setting in which this ruleset will be used. In a cyberpunk world, *Hacking* would likely be one of the most important skills one can have, but it's clearly not appropriate for a medieval fantasy setting. Attempting to genericize these skills into something like *Bypassing Security* which represents lockpicking and hacking together, depending on the setting, is just awkward and will likely still fail to adequately represent the skills important to many settings.
+
+Combat Skills
+-----
+I wanted each combat skill to be an interesting choice. Too many RPG systems have a variant of the "choose your primary attribute and dump points into it" problem. Fundamentally, having a different primary stat doesn't often change the way a character plays, it's just flavorful background in terms of *how* they are good at what they do, and not necessarily *what* they are good at.
+
+A fast, sneaky, dexterous character should have a different combat strategy than a slow, beefy, resilient character. If the fast character does 40 damage in 8 hits per turn, whereas the beefy character does 40 damage in one hit per turn, that's not really a fundamental gameplay difference. Fortunately, the one-hit combat system makes initiative incredibly important. A fast character can move first and prioritize a dangerous target, whereas a slower character might be able to last longer in a prolonged fight.
+
+The reason for the ranged/melee split is so that there is an option to trade power for versatility. Dexterity-based characters in D&D for example, can often use finesse weapons and ranged weapons equally well, as well as gaining additional AC from dex, and there isn't really a tradeoff there. I wanted there to be explicit tradeoffs.
+
+The reason for the cap and the amount of points a character starts with is so that characters must always choose what they're giving up. If they pick Ranged and Melee Offense, they are exceedingly capable of taking out enemies at any range, but they act slowly and are fairly defenseless. They might have lots of initiative and an offense, and they're able to eliminate targets at the beginning of combat, but if it doesn't end quickly, they're fairly certain to fall. Each choice has tradeoffs and risks associated with it.
+
+The rules for using ranged attacks while in melee range are there to incentivize picking up both Melee and Ranged Offense skills for characters that have that fantasy. While it's unlikely that minmaxing players will ever choose to build a character this way despite these rules, its intention is to help players who have that character fantasy (the Legolas/ranger fantasy of being able to fight in melee and range equally well) feel like they are gaining something important, namely the versatility to engage an enemy at any range regardless of which range they're in.
 
 Abilities
 -----
@@ -102,7 +110,7 @@ As far as attacking and defending go, they put the power into players' hands. Pl
 
 Death and Failure
 =====
-In the original rules, characters fell just like enemy creatures did. This was kind of un-fun because you could be knocked out very quickly with a single bad roll, and you'd be unengaged with the rest of the combat because there was no action you could take to improve the situation. Adding an *injured* state keeps players attentive for when their turn comes up and at least somewhat engaged with combat after getting hit.
+In the original rules, characters fell just like enemy creatures did. This was kind of un-fun because you could be knocked out very quickly with a single bad roll, and you'd be unengaged with the rest of the combat because there was no action you could take to improve the situation. Adding a *wounded* state keeps players attentive for when their turn comes up and at least somewhat engaged with combat after getting hit.
 
 Items and Equipment
 =====

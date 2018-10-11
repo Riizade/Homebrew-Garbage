@@ -107,7 +107,7 @@ Any skill check can become a minigame where the player makes their best argument
 
 Combat
 =====
-Combat in this system is deadly. Enemies are felled in a single swipe, and you yourself can similarly be incapacitated in a single attack. This is to help speed up combat and to make the in-game combat feel much more hectic and unpredictable. Even the best warrior can be hit by a lucky attack and be rendered unable to fight.
+Combat in this system is deadly. Enemies are felled in a single blow, and you yourself can similarly be incapacitated in a single attack. This is to help speed up combat and to make the in-game combat feel much more hectic and unpredictable. Even the best warrior can be hit by a lucky attack and be rendered unable to fight.
 
 Initiative
 -----
@@ -134,7 +134,7 @@ When attacking an enemy, you must clear a task of their target difficulty with y
 
 Melee attacks can only be used when the character is in melee range, and can only be used against enemies that are also in melee range. Melee attacks gain an unconditional +3 bonus to attack rolls (in addition to other bonuses, such as your Melee Offense skill).
 
-Ranged attacks can be used against any combatant at any range, but gains no bonus. Ranged attacks made while in Melee range suffer a -3 penalty to the attack roll.
+Ranged attacks can be used against any combatant at any range, but gains no bonus. If a ranged attack is used while the character is in melee range, the attack uses the *lower* roll of the character's Melee Offense and Ranged Offense skills, but still gains no bonus.
 
 If the character's attack roll exceeds the target defense value of the enemy, the enemy falls in combat.
 
